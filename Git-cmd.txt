@@ -1,0 +1,15 @@
+
+
+###############    Git tutorial ################
+
+1. To create the Git repository
+	--git init "repository name" 
+
+2. To Check the commit status 
+	-- git status
+
+3. Changes need to add in staging area
+	-- git add .
+
+4. changes needs commit
+	-- git commit -m " commit descreption
